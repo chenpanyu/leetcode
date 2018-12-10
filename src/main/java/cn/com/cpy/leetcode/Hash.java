@@ -10,7 +10,7 @@ package cn.com.cpy.leetcode;
 public class Hash {
 
     public static void main(String[] args) {
-        hash("222");
+        hash("333");
     }
 
     private static int hash(Object k) {
